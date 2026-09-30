@@ -4,11 +4,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** (Estácio) e atualmente atuo como estagiário na área de **Tecnologia da Informação**. Tenho experiência no ecossistema de TI, suporte, redes e infraestrutura, além de forte vivência profissional anterior com atendimento focado em resolução de problemas complexos e governança.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (Estácio) com foco em **Desenvolvimento Front-End** e tecnologia da informação. Tenho experiência com suporte, redes e infraestrutura de TI, além de vivência profissional com atendimento focado em resolução de problemas complexos.
 
   
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento de software, lógica de programação (C/Python)**.
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web (HTML, CSS, JavaScript) e criação de interfaces modernas e responsivas**.
 
   
 
@@ -16,7 +16,7 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento de softwar
 
 - 💼 Atualmente estagiando na área de TI (FHEMIG)
 
-- 🎯 Objetivo: Oportunidades em Desenvolvimento de Software e TI
+- 🎯 Objetivo: Oportunidades em Desenvolvimento Front-End e Web Development
 
 - 📍 Juiz de Fora, MG - Brasil
 
@@ -32,8 +32,7 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento de softwar
 
 **Linguagens & Web:**
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
@@ -55,9 +54,9 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento de softwar
 
   
 
-- 🃏 **[Super Trunfo em C](https://github.com/caiocesar010)**: Projeto de lógica de programação desenvolvido em linguagem C para simulação de jogo de cartas com leitura de dados e estruturas de decisão.
+- 🌐 **[Projetos Front-End Web](https://github.com/caiocesar010)**: Aplicações web desenvolvidas com HTML, CSS e JavaScript focado em páginas responsivas, usabilidade e lógica de interface.
 
-- ⚙️ **[Automação e Scripts](https://github.com/caiocesar010)**: Scripts de suporte e banco de dados focados em resolução de problemas e infraestrutura.
+- ⚙️ **[Automação e Scripts](https://github.com/caiocesar010)**: Scripts e projetos para consolidação de lógica e resolução de problemas.
 
   
 
@@ -73,7 +72,7 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento de softwar
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocesar010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocesar010&layout=compact&theme=tokyonight&hide=html,css"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocesar010&layout=compact&theme=tokyonight"/>
 
 </p>
 
