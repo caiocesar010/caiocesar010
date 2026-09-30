@@ -32,17 +32,17 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web (HTML,
 
 **Linguagens & Web:**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<a href="#!"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="#!"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="#!"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 
   
 
 **Ferramentas & Controle de Versão:**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<a href="#!"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="#!"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="#!"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
 
   
 
@@ -54,9 +54,9 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web (HTML,
 
   
 
-- 🌐 **[Projetos Front-End Web](https://github.com/caiocesar010)**: Aplicações web desenvolvidas com HTML, CSS e JavaScript focado em páginas responsivas, usabilidade e lógica de interface.
+- 🌐 **Projetos Front-End Web**: Aplicações web desenvolvidas com HTML, CSS e JavaScript focado em páginas responsivas, usabilidade e lógica de interface.
 
-- ⚙️ **[Automação e Scripts](https://github.com/caiocesar010)**: Scripts e projetos para consolidação de lógica e resolução de problemas.
+- ⚙️ **Automação e Scripts**: Scripts e projetos para consolidação de lógica e resolução de problemas.
 
   
 
@@ -64,15 +64,13 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web (HTML,
 
   
 
-### 📊 Estatísticas no GitHub
+### 📊 Linguagens Mais Usadas
 
   
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocesar010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocesar010&layout=compact&theme=tokyonight"/>
+<a href="#!"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocesar010&layout=compact&theme=tokyonight"/></a>
 
 </p>
 
